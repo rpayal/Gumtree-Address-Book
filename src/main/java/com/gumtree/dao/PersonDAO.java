@@ -26,7 +26,6 @@ public class PersonDAO implements IPersonDAO, InitializingBean {
     
 	@Override
 	public List<Person> getPersons() {
-		// TODO Auto-generated method stub
 		return persons;
 	}
 
